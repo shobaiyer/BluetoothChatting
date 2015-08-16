@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Bluetooth Chatting</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">No Device Is Connected</string>
+    <string name="bt_not_enabled_leaving">Bluetooth Is Not Enabled</string>
+    <string name="title_connecting">Trying Connecting...</string>
+    <string name="title_connected_to">Connected To: </string>
+    <string name="title_not_connected">No Connection</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Scanning For New Devices...</string>
+    <string name="select_device">Select The Device To Connect</string>
+    <string name="none_paired">No Paired Devices Found</string>
+    <string name="none_found">No Active Devices </string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Available Devices</string>
+    <string name="button_scan">Scan Now</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Connect A Device</string>
+    <string name="discoverable">Make Discoverable</string>
+</resources>
